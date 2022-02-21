@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1b7496e.css",
+    "main.js": "/static/js/main.00d07dd7.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/shopping_cart.png": "/static/media/shopping_cart.891a5e462664618faee0.png",
+    "static/media/java_logo.jpg": "/static/media/java_logo.4dc373c6d55e371e6f23.jpg",
+    "static/media/photo.jpg": "/static/media/photo.6079381922bda063c713.jpg",
+    "static/media/movie_database.png": "/static/media/movie_database.8c9bcc50de2066273c5c.png",
+    "static/media/react_logo.jpg": "/static/media/react_logo.542ebb7a9e4f2e364058.jpg",
+    "static/media/postgresql_logo.jpg": "/static/media/postgresql_logo.0f231e64752f163eec64.jpg",
+    "static/media/javascript_logo.jpg": "/static/media/javascript_logo.aa811813abe902e90aee.jpg",
+    "static/media/css_logo.png": "/static/media/css_logo.4e67641bb68b658d9b2b.png",
+    "static/media/resume_demo.jpg": "/static/media/resume_demo.eee88f13432a76272c2c.jpg",
+    "static/media/cassandra_logo.jpg": "/static/media/cassandra_logo.b4091302a90eb676f3ce.jpg",
+    "static/media/Tasnia_Nowrin_Resume_1.pdf": "/static/media/Tasnia_Nowrin_Resume_1.5971423535954b5ab323.pdf",
+    "static/media/github_logo.png": "/static/media/github_logo.7e5ca929b29a7ba808fe.png",
+    "static/media/jquery_logo.png": "/static/media/jquery_logo.0bcc2a2f079171db4538.png",
+    "static/media/SQLite_logo.png": "/static/media/SQLite_logo.5dcb3cb29578f1db9621.png",
+    "index.html": "/index.html",
+    "main.f1b7496e.css.map": "/static/css/main.f1b7496e.css.map",
+    "main.00d07dd7.js.map": "/static/js/main.00d07dd7.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1b7496e.css",
+    "static/js/main.00d07dd7.js"
+  ]
+}
